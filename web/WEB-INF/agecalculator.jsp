@@ -17,5 +17,7 @@
             <h2>Enter your age: <input type="text" name="currentAge" value="${currentAge}"><br>
                 <input type="submit" value="Age next birthday">
         </form>
+                <p>${message}</p>
+                <a href="http://localhost:8084/Week3Lab_Calculators/arithmetic">Arithmetic Calculator</a>
     </body>
 </html>
